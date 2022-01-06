@@ -13,6 +13,7 @@ As an introduction to debugging:
 
 Answer the following questions:
 1. What is the purpose of a breakpoint?
+
 A. a breakpoint is used to stop the program at a certian point.this allows you to debug the program
 
 2. Does the line of code on a breakpoint run when you start debugging?

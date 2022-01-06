@@ -10,7 +10,7 @@ public enum RoomType {
         this.value = value;
     }
 
-    public int getValue() { //UPDATES
+    public int getValue() { 
         return this.value;
     }
 
